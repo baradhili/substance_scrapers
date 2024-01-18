@@ -1,0 +1,16 @@
+{
+{
+    "DB01048": [
+        {
+            "name": "Ziagen",
+            "form": "Solution",
+            "dosage": "20",
+            "dosageUnits": "mg\/mL",
+            "route": "Oral",
+            "manufacturer": "Vii V Healthcare B.V.",
+            "approval_date": "2020-12-22",
+            "expiry_date": "Not Applicable",
+            "country": "EU"
+        }
+    ]
+}

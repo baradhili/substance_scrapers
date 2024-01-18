@@ -1,0 +1,80 @@
+{
+{
+    "DB01048": []
+},
+{
+    "DB12001": []
+},
+{
+    "DB05812": [
+        {
+            "name": "Akeega",
+            "ingredients": [
+                {
+                    "name": "Abiraterone acetate",
+                    "dosage": "500",
+                    "dosageUnits": "mg"
+                },
+                {
+                    "name": "Niraparib",
+                    "dosage": "50",
+                    "dosageUnits": "mg"
+                }
+            ],
+            "form": "Tablet, film coated",
+            "route": "Oral",
+            "manufacturer": "Janssen Cilag International Nv",
+            "approval_date": "2023-06-09",
+            "expiry_date": "Not Applicable",
+            "country": "EU"
+        },
+        {
+            "name": "Akeega",
+            "ingredients": [
+                {
+                    "name": "Abiraterone acetate",
+                    "dosage": "500",
+                    "dosageUnits": "mg"
+                },
+                {
+                    "name": "Niraparib",
+                    "dosage": "100",
+                    "dosageUnits": "mg"
+                }
+            ],
+            "form": "Tablet, film coated",
+            "route": "Oral",
+            "manufacturer": "Janssen Cilag International Nv",
+            "approval_date": "2023-06-09",
+            "expiry_date": "Not Applicable",
+            "country": "EU"
+        },
+        {
+            "name": "Akeega",
+            "ingredients": [
+                {
+                    "name": "Abiraterone acetate",
+                    "dosage": "500",
+                    "dosageUnits": "mg"
+                },
+                {
+                    "name": "Niraparib",
+                    "dosage": "50",
+                    "dosageUnits": "mg"
+                }
+            ],
+            "form": "Tablet, film coated",
+            "route": "Oral",
+            "manufacturer": "Janssen Cilag International Nv",
+            "approval_date": "2023-06-09",
+            "expiry_date": "Not Applicable",
+            "country": "EU"
+        }
+    ]
+},
+{
+    "DB14973": []
+},
+{
+    "DB11703": []
+}
